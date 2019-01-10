@@ -1118,6 +1118,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - understand what lies beneath the programming APIs you use
     - can you implement them?
 
+###Videos are no no more there on youtube for string related topics listed below
 - ### String searching & manipulations
     - [ ] [Sedgewick - Suffix Arrays (video)](https://www.youtube.com/watch?v=HKPrVm5FWvg)
     - [ ] [Sedgewick - Substring Search (videos)](https://www.youtube.com/watch?v=2LvvVFCEIv8&list=PLe-ggMe31CTdAdjXB3lIuf2maubzo9t66&index=5)
